@@ -1,7 +1,4 @@
-# BD
+# Домашняя работа с PostgreSQL. Создание БД
 
-## Спроектировал и нарисовал схему
-
-drawSQL.png
-
-
+- Реализация таблиц треков: https://github.com/mirrosha26/DB/tree/main/Staff
+- Реализация таблиц сортудников: https://github.com/mirrosha26/DB/tree/main/Tracks
