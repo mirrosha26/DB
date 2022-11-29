@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS Department(
 CREATE TABLE IF NOT EXISTS Staff(
   id SERIAL PRIMARY KEY,
   name VARCHAR(100) NOT NULL,
-  bos INTEGER REFERENCES Staff(id),
+  chief INTEGER REFERENCES Staff(id),
   compilation_id INTEGER NOT NULL REFERENCES Department(id)
 );
 
