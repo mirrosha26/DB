@@ -1,5 +1,5 @@
 # Создание таблиц Сотрудников
-![Tracks]([https://raw.githubusercontent.com/mirrosha26/DB/main/Staff/Staff.jpg](https://github.com/mirrosha26/DB/blob/main/Tracks/drawSQL.png?raw=true)
+![Tracks](https://raw.githubusercontent.com/mirrosha26/DB/main/Staff/Staff.jpg](https://github.com/mirrosha26/DB/blob/main/Tracks/drawSQL.png?raw=true)
 
 ```SQL
 CREATE TABLE IF NOT EXISTS Genre(
