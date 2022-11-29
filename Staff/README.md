@@ -14,3 +14,4 @@ CREATE TABLE IF NOT EXISTS Staff(
   compilation_id INTEGER NOT NULL REFERENCES Department(id)
 );
 ```
+Ссылка на SQL https://github.com/mirrosha26/DB/blob/main/Staff/Staff.sql
