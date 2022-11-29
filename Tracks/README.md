@@ -1,6 +1,11 @@
 # Создание таблиц Сотрудников
 ![Tracks](https://github.com/mirrosha26/DB/blob/main/Tracks/drawSQL.png?raw=true)
 
+> Создаем таблицу в терминале 
+```Shell
+createdb -U postgres Tracks
+```
+
 ```SQL
 CREATE TABLE IF NOT EXISTS Genre(
   id SERIAL PRIMARY KEY,
