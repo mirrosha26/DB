@@ -49,3 +49,4 @@ CREATE TABLE IF NOT EXISTS Сompilation_Track(
   compilation_id INTEGER NOT NULL REFERENCES Сompilation(id)
 );
 ```
+Ссылка на SQL https://github.com/mirrosha26/DB/blob/main/Tracks/Tracks.sql
