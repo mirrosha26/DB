@@ -1,5 +1,5 @@
 # Создание таблиц Сотрудников
-
+![Staff](https://raw.githubusercontent.com/mirrosha26/DB/main/Staff/Staff.jpg)
 
 ```SQL
 CREATE TABLE IF NOT EXISTS Department(
