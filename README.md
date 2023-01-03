@@ -1,4 +1,8 @@
-# Домашняя работа с PostgreSQL. Создание БД
+# Домашнее задание «Select-запросы, выборки из одной таблицы»
 
-- Реализация таблиц треков: https://github.com/mirrosha26/DB/tree/main/Tracks
-- Реализация таблиц сортудников: https://github.com/mirrosha26/DB/tree/main/Staff
+
+Результатом работы являются 3 файла в формате .sql:
+
+с INSERT запросами [задание 1](/INSERT.sql)
+с SELECT запросами [задание 2](/SELECT.sql)
+с CREATE запросами [из предыдущей домашней работы)](/CREATE.sql)
